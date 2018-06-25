@@ -1,0 +1,17 @@
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\FBQTDD.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\FBQTDD.pdb
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\victo\source\repos\FBQTDD\FBQTDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\victo\source\repos\FBQTDD\FBQTDD\obj\Debug\FBQTDD.csprojResolveAssemblyReference.cache
+c:\users\victo\source\repos\FBQTDD\FBQTDD\obj\Debug\FBQTDD.csproj.CoreCompileInputs.cache
+c:\users\victo\source\repos\FBQTDD\FBQTDD\obj\Debug\FBQTDD.csproj.CopyComplete
+c:\users\victo\source\repos\FBQTDD\FBQTDD\obj\Debug\FBQTDD.dll
+c:\users\victo\source\repos\FBQTDD\FBQTDD\obj\Debug\FBQTDD.pdb
